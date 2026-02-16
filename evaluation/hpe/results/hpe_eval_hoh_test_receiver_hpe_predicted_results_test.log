@@ -1,0 +1,8 @@
+2024-09-06 15:02:32: Running evaluation
+2024-09-06 15:02:33: Results: 
+| alignment     |   MPJPE (mm) |    AUC |
+|:--------------|-------------:|-------:|
+| absolute      |       0.7426 | 0.9854 |
+| root-relative |       0.8754 | 0.9821 |
+| procrustes    |       0.2491 | 0.9945 |
+2024-09-06 15:02:34: Evaluation complete.
